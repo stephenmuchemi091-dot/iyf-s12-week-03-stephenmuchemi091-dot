@@ -27,8 +27,8 @@ Learning command line and Git, essential tools
 
 \`\`\`
 iyf-s12-week-03-yourusername/
-├── index.html
-├── about.html
+|     ├── index.html
+|     ├── about.html
 ├── projects.html
 ├── contact.html
 ├── css/
