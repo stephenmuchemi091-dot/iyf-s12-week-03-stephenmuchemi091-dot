@@ -50,7 +50,7 @@ Describe key lessons from building this project.
 
 ## Contact
 
-- Email: your@email.com
+- Email: stephenmuchemi091@gmail.com
 - LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
