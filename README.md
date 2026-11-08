@@ -53,14 +53,6 @@ Describe key lessons from building this project.
 - Email: stephenmuchemi091@gmail.com
 - GitHub: [@yourusername](https://github.com/yourusername)
 
-## Collaboration
-
-- **Partner:** [@partner](https://github.com/partner)
-- **Pair repo:** https://github.com/...
-- **PR I opened:** https://github.com/.../pull/N
-- **PR I reviewed:** https://github.com/.../pull/N
-- **Merge-conflict PR:** https://github.com/.../pull/N
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
