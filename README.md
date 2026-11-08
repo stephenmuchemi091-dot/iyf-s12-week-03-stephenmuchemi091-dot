@@ -27,16 +27,18 @@ Learning command line and Git, essential tools
 
 \`\`\`
 iyf-s12-week-03-yourusername/
-|     ├── index.html
-|     ├── about.html
-├── projects.html
-├── contact.html
-├── css/
-│   └── styles.css
-└── images/
-\`\`\`
+├── images/
+├── about.html
+├── box-model-practice.html
+├── index.html
+├── style.css
+├── terminal-log.md
+
 
 ## What I Learned
+creating directories in git
+branch and merging
+how to commit in git
 
 Describe key lessons from building this project.
 
